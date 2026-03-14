@@ -1,4 +1,4 @@
-# 🔊 Terminal Error Sound for VS Code
+# 🔊 Faah Terminal Alerts
 
 > Immediate auditory feedback for terminal errors — so you never miss a failed build again.
 

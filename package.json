@@ -1,6 +1,6 @@
 {
   "name": "faah-terminal-alerts",
-  "displayName": "Faah-Terminal-Alerts",
+  "displayName": "Faah Terminal Alerts",
   "description": "Immediate auditory feedback for terminal errors — never miss a failed build.",
   "version": "1.0.0",
   "publisher": "shravankumardeb",
@@ -19,8 +19,8 @@
     "alert"
   ],
   "activationEvents": [
-    "onStartupFinished"
-  ],
+  "onTerminal"
+],
   "main": "./out/extension.js",
   "repository": {
     "type": "git",
