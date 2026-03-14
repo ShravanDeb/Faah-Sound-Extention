@@ -1,16 +1,22 @@
 {
-  "name": "faah-error-audio",
-  "displayName": "faah-error-audio",
-  "description": "Plays a notification sound on terminal command failure.",
+  "name": "faah-terminal-alerts",
+  "displayName": "Faah-Terminal-Alerts",
+  "description": "Immediate auditory feedback for terminal errors — never miss a failed build.",
   "version": "1.0.0",
   "publisher": "shravankumardeb",
+  "icon": "icon.png",
   "engines": {
     "vscode": "^1.93.0"
-   
   },
-   "icon": "icon.png",
   "categories": [
     "Other"
+  ],
+  "keywords": [
+    "terminal",
+    "error",
+    "audio",
+    "sound",
+    "alert"
   ],
   "activationEvents": [
     "onStartupFinished"
@@ -18,7 +24,11 @@
   "main": "./out/extension.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ShravanDeb/Faah-Sound-Extention.git"
+    "url": "https://github.com/ShravanDeb/Faah-Sound-Extension.git"
+  },
+  "homepage": "https://github.com/ShravanDeb/Faah-Sound-Extension#readme",
+  "bugs": {
+    "url": "https://github.com/ShravanDeb/Faah-Sound-Extension/issues"
   },
   "license": "MIT"
 }
