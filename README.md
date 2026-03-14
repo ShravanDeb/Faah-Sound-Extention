@@ -1,8 +1,5 @@
 # 🔊 Terminal Error Sound for VS Code
 
-[![VS Code](https://img.shields.io/badge/VS%20Code-1.93%2B-blue?logo=visualstudiocode)](https://code.visualstudio.com/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
-
 > Immediate auditory feedback for terminal errors — so you never miss a failed build again.
 
 Terminal Error Sound monitors your VS Code Integrated Terminal and background build tasks, emitting a configurable notification sound whenever a process exits with a non-zero exit code. Stay in flow without constantly watching your terminal for failures.
